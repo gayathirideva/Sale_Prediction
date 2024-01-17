@@ -11,8 +11,8 @@ PROBLEM :
 
         Looking out for the accuracy and consistency across the store and CPI.
 
-    2. MODEL SELECTION : 
-        Choose the suitable ML and optimize the prediction accuracy is more time consuming and tireing job. Moving to the deployment of the predictions to the real-time                environment.
+    2. MODEL SELECTION : Choose the suitable ML and optimize the prediction accuracy is more time consuming and tireing job. Moving to the deployment of the predictions to the 
+       real-time environment.
 
         
     
