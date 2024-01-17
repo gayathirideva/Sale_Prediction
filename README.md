@@ -7,12 +7,12 @@ PROBLEM :
 
   STEPS TO BE NOTED:
    1. DATA COLLECTION :
-        Gather the data that has been provided and see that the data that is            available for the predictions.
+        Gather the data that has been provided and see that the data that is available for the predictions.
 
-        Looking out for the accuracy and consistency across the store and            CPI.
+        Looking out for the accuracy and consistency across the store and CPI.
 
     2. MODEL SELECTION : 
-        Choose the suitable ML and optimize the prediction accuracy is more          time consuming and tireing job. Moving to the deployment of the              predictions to the real-time environment.
+        Choose the suitable ML and optimize the prediction accuracy is more time consuming and tireing job. Moving to the deployment of the predictions to the real-time                environment.
 
         
     
