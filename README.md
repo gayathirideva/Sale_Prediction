@@ -11,8 +11,14 @@ PROBLEM :
 
         Looking out for the accuracy and consistency across the store and CPI.
 
-    2. MODEL SELECTION : Choose the suitable ML and optimize the prediction accuracy is more time consuming and tireing job. Moving to the deployment of the predictions to the 
+    2. MODEL SELECTION : 
+        Choose the suitable ML and optimize the prediction accuracy is more time consuming and tireing job. Moving to the deployment of the predictions to the 
        real-time environment.
+
+    3. Once the  model is selected create the train and test data, also see the mean, median and square values of the data. Also check the hyper tuning method, see how the data is getting affected in the values. Based on which you will see which will be more effective in the predictions.
+
+    4. Create a EDA, where we get to compare the data and see visually how it affects the decisions.
+    
 
         
     
